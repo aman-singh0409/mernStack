@@ -1,0 +1,9 @@
+img{
+    border-radius: 50%;
+    height: 300px;
+    border: solid black 4px;
+    margin: 10px;
+}
+body{
+    background-color: blanchedalmond;
+}
